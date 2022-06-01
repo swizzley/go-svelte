@@ -1,0 +1,7 @@
+.idea
+.vscode
+.DS_Store
+go-svelte
+*/node_modules
+*/dist
+vendor
